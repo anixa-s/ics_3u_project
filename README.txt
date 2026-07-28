@@ -43,30 +43,30 @@ Sprites Used
 
 1. Explorer (Player Character)
 
-- The main character controlled by the player.
-- This sprite was personally designed and drawn using the Scratch costume editor.
-- Includes movement, jumping, animation, and collision detection.
+- The main character controlled by the player
+- Includes movement, jumping, animation, and collision detection
 
 2. Crystal
 
-- Collectible item that increases the player’s score.
-- When collected, it disappears and the score variable increases.
+- Collectible item that increases the player’s score
+- When collected, it disappears and the score variable increases
 
 3. Enemy Slime
 
-- Moves around the level and creates challenges for the player.
-- Reduces the player’s health when touched.
+- Moves around the level and creates challenges for the player
+- This sprite was personally designed and drawn using the Scratch costume editor
+- Reduces the player’s health when touched
 
 4. Spike Trap
 
-- An obstacle that damages the player when touched.
-- Requires the player to carefully navigate the environment.
+- An obstacle that damages the player when touched
+- Requires the player to carefully navigate the environment
 
 5. Portal
 
-- The final objective of the game.
-- Appears after enough crystals are collected.
-- Sends a broadcast message when the player completes the level.
+- The final objective of the game
+- Appears after enough crystals are collected
+- Sends a broadcast message when the player completes the level
 
 ⸻ ⸻ ⸻ ⸻ ⸻ ⸻ ⸻ ⸻ ⸻ ⸻ ⸻ ⸻ ⸻ ⸻ ⸻ ⸻
 
@@ -78,15 +78,15 @@ Variables
 
 The following variables were created:
 
-- Crystals: Tracks how many crystals the player has collected.
-- Health: Tracks the player’s remaining lives.
-- Level: Controls game progression.
+- Crystals: Tracks how many crystals the player has collected
+- Health: Tracks the player’s remaining lives
+- Level: Controls game progression
 
 Broadcast Messages
 
-- Game Over: Ends the game when the player’s health reaches zero.
-- Level Complete: Activates the winning sequence when the player reaches the portal.
-- Restart Game: Allows the game to begin again.
+- Game Over: Ends the game when the player’s health reaches zero
+- Level Complete: Activates the winning sequence when the player reaches the portal
+- Restart Game: Allows the game to begin again
 
 Loops
 
@@ -110,7 +110,7 @@ If and if-else statements were used for:
 
 Sounds Used
 
-Sounds are included to make the game more interactive.
+Sounds are included to make the game more interactive
 
 Examples:
 
@@ -124,22 +124,22 @@ Sources and Credits
 
 Sprites
 
-- Diamond character: Created by Anika Singh using the Scratch costume editor.
-- Other sprites: Scratch built-in sprite library.
+- Diamond character: Created by Anika Singh using the Scratch costume editor
+- Other sprites: Scratch built-in sprite library
 
 Source:
 https://scratch.mit.edu/
 
 Backgrounds
 
-- Background images were obtained from the Scratch built-in backdrop library.
+- Background images were obtained from the Scratch built-in backdrop library
 
 Source:
 https://scratch.mit.edu/
 
 Sounds
 
-- Sound effects were obtained from the Scratch sound library.
+- Sound effects were obtained from the Scratch sound library
 
 Source:
 https://scratch.mit.edu/
